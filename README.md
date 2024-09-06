@@ -20,9 +20,20 @@ After completion of the projects class the kind people at FSAAI obtained grant m
 - **Xamarin Deprecation:** During out development of the application as part of our project we started to notice a worrying trend of many already deprecated functions and outdated documentation as well as concerns around support for Xamarin in the future. Contributing to our decision to rework the project.
 - **Testing Limitations:** The team lacked Apple devices, making it difficult to test the iOS version or even have it released for use on Apple devices at all.
 - **Solution:** Transitioning to a Progressive Web App (PWA) allowed us to mitigate these issues and lean up our original code. Though we couldn't officially test the application on an Apple device still or the Safari browser, we felt it was the best compromise that would allow for more users to access the application while also streamlining the development process so we decided to port the application over to Angular js using Ionic for native UI elements on the frontend of the application.
+
 This experience taught me to thoroughly evaluate the tools we choose and to prefer more popular solutions that are likely to be supported for the foreseeable future.
 
 ## Progressive Web App Version
 ### Features
-In addition to porting the application to a Progressive Web App (PWA), the following features were added to the application as part of our contract on top of [the previously mentioned features](#native-app-version).
+In addition to porting the application to a Progressive Web App (PWA), the following features were added to the application as part of our contract on top of the [previously mentioned features](#native-app-version).
 - **Sign Filtering:** After the original projects end, we were hired on to continue work on the project, one of those features was the ability for end users to set a custom filter for what type of signs they wish to see. The signs all get a Category given to them and users can decide if they want to see a certain category or not if they're more interested in certain subjects then others.
+
+### Tech Stack
+- **Angular js:** For frontend PWA for end users.
+- **Ionic:** For implmeenting native UI elements into the web app.
+- **Microsoft .Net Core MVC:** For development of the Backend API and Admin panel.
+- **Google Maps API:** For the map interface and tools needed to implement the main feature of the application.
+
+## Screenshots
+
+
