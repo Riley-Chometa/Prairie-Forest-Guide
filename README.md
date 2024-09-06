@@ -24,5 +24,5 @@ This experience taught me to thoroughly evaluate the tools we choose and to pref
 
 ## Progressive Web App Version
 ### Features
-In addition to porting the application to a Progressive Web App (PWA), the following features were added to the application as part of our contract on top of [the previously mentioned features](##Native-App-Version).
+In addition to porting the application to a Progressive Web App (PWA), the following features were added to the application as part of our contract on top of [the previously mentioned features](##native-app-version).
 - **Sign Filtering:** After the original projects end, we were hired on to continue work on the project, one of those features was the ability for end users to set a custom filter for what type of signs they wish to see. The signs all get a Category given to them and users can decide if they want to see a certain category or not if they're more interested in certain subjects then others.
