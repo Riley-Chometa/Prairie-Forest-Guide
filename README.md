@@ -1,4 +1,6 @@
 # Prairie Forest Guide
+I have recently gone back to the project to assist with getting the application running again after taking a break from the project to focus on my studies. Currently, the application is not operational but a link and screenshots will be posted once the application is back up and running.
+
 ## Overview
 Prairie Forest Guide is a mobile application developed during a year-long projects class at Saskatchewan Polytechnic for a local non-profit here in Saskatoon called Friends of the Saskatoon Afforestation Aread Inc. (FSAAI). It allows users to view “digital signs” placed at specific locations on a map when they are nearby. An admin panel web app enables FSAAI to manage and place these signs. Initially designed as a native app, it was later transitioned to a progressive web app (PWA) due to concerns around Xamarin deprecation and the lack of Apple devices for testing.
 
@@ -33,7 +35,5 @@ In addition to porting the application to a Progressive Web App (PWA), the follo
 - **Ionic:** For implmeenting native UI elements into the web app.
 - **Microsoft .Net Core MVC:** For development of the Backend API and Admin panel.
 - **Google Maps API:** For the map interface and tools needed to implement the main feature of the application.
-
-## Screenshots
 
 
