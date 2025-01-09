@@ -1,8 +1,16 @@
 # Prairie Forest Guide
-I have recently gone back to the project to assist with getting the application running again after taking a break from the project to focus on my studies. Currently, the application is not operational but a link and screenshots will be posted once the application is back up and running.
+After taking a break from the project due to school, the rest of the developers were unable to maintain the application and it because unusable due to the semi-recent large scale cyber attack on Azure cloud. I have returned to the project as a volunteer developer to bring it back up to date. Though it is not yet completed, it is just waiting approval from my client on whether it is in a good enough state for deployment after they finish testing the system currently being hosted on my home server. Below you will find several images showing off the progressive web app for now taken in my browser on my pc.
 
 ## Overview
 Prairie Forest Guide is a mobile application developed during a year-long projects class at Saskatchewan Polytechnic for a local non-profit here in Saskatoon called Friends of the Saskatoon Afforestation Aread Inc. (FSAAI). It allows users to view “digital signs” placed at specific locations on a map when they are nearby. An admin panel web app enables FSAAI to manage and place these signs. Initially designed as a native app, it was later transitioned to a progressive web app (PWA) due to concerns around Xamarin deprecation and the lack of Apple devices for testing.
+
+| Main map screen                     | After clicking sign that is close enough to user | After clicking sign that is too far from user |
+| ----------------------------------- | ------------------------------------------------ | --------------------------------------------- |
+| ![image](https://github.com/user-attachments/assets/53e4d6c1-872c-417e-baef-eaeb49c6652b) | ![image](https://github.com/user-attachments/assets/ef479f14-f5a1-40b3-bf20-6ea4bb4f7a5e) | ![image](https://github.com/user-attachments/assets/ca8615be-172e-4300-a097-781226f65b66) | 
+
+| Menu                                | Events tab                                       | Event details page                            |
+| ----------------------------------- | ------------------------------------------------ | --------------------------------------------- |
+| ![image](https://github.com/user-attachments/assets/3ec7a4fe-aa17-4c9e-9f64-a2019de8f1a8) | ![image](https://github.com/user-attachments/assets/9e2f0d37-e4a4-4681-b02c-871c103cd54d) | ![image](https://github.com/user-attachments/assets/d749eed4-a172-4d2f-990d-be6b230e3ad5) |
 
 ## Native App Version
 ### Features
